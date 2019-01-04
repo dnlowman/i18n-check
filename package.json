@@ -1,0 +1,9 @@
+{
+  "name": "i18n-check",
+  "version": "0.1.0",
+  "description": "A small CLI utility for checking your i18n JSON translation files.",
+  "main": "index.js",
+  "repository": "https://github.com/dnlowman/i18n-check.git",
+  "author": "dnlowman <dnlowman@gmail.com>",
+  "license": "Apache-2.0"
+}
